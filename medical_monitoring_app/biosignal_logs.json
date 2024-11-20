@@ -1,0 +1,28 @@
+[
+    {
+        "timestamp": "2024-11-19T22:21:34.867208",
+        "data": {
+            "heart_rate": 120,
+            "blood_pressure": 140,
+            "oxygen_saturation": 88,
+            "statuses": [
+                "Alert: Heart Rate out of safe range!",
+                "Alert: Blood Pressure out of safe range!",
+                "Alert: Oxygen Saturation out of safe range!"
+            ]
+        }
+    },
+    {
+        "timestamp": "2024-11-19T22:25:11.006711",
+        "data": {
+            "heart_rate": 120,
+            "blood_pressure": 140,
+            "oxygen_saturation": 88,
+            "statuses": [
+                "Alert: Heart Rate out of safe range!",
+                "Alert: Blood Pressure out of safe range!",
+                "Alert: Oxygen Saturation out of safe range!"
+            ]
+        }
+    }
+]

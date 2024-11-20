@@ -1,0 +1,18 @@
+[
+    {
+        "timestamp": "2024-11-19T22:21:34.867208",
+        "alert": "Hospital contacted at 123-456-789."
+    },
+    {
+        "timestamp": "2024-11-19T22:21:34.867208",
+        "alert": "Ambulance dispatched to the location via 987-654-321."
+    },
+    {
+        "timestamp": "2024-11-19T22:25:11.006711",
+        "alert": "Hospital contacted at 123-456-789."
+    },
+    {
+        "timestamp": "2024-11-19T22:25:11.006711",
+        "alert": "Ambulance dispatched to the location via 987-654-321."
+    }
+]
