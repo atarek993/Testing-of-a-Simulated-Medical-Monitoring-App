@@ -1,4 +1,4 @@
-from biosignals import *
+from app.biosignals import *
 
 class WearableDevice:
     """Simulates the wearable device."""

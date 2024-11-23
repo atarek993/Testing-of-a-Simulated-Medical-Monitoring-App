@@ -6,6 +6,9 @@ class Biosignal:
         self.value = None
 
     def update_value(self, value):
+
+        if value is None:
+            return f"invalid input for {self.name}"
        
         self.value = value
         return self.check_threshold()

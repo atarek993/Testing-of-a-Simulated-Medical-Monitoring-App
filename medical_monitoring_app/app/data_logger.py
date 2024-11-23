@@ -28,6 +28,16 @@ class DataLogger:
                 with open(file, "w") as f:
                     json.dump([], f)
 
+    def clear_logs(self):
+        """
+        Clears both the biosignal and alert log files.
+        """
+        with open(self.log_file, "w") as f:
+            json.dump([], f)
+
+        with open(self.alert_file, "w") as f:
+            json.dump([], f)
+
     def log_biosignal(self, timestamp, biosignal_data):
         """
         Logs biosignal data to the data log file.
